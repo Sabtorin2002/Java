@@ -1,0 +1,27 @@
+[
+    {
+        "Penalizare": 369.5,
+        "Nr_apartament": 1,
+        "Nume": "Popescu"
+    },
+    {
+        "Penalizare": 170.5,
+        "Nr_apartament": 2,
+        "Nume": "Enescu"
+    },
+    {
+        "Penalizare": 205.51999999999998,
+        "Nr_apartament": 3,
+        "Nume": "Testescu"
+    },
+    {
+        "Penalizare": 201.74,
+        "Nr_apartament": 4,
+        "Nume": "Patrascu"
+    },
+    {
+        "Penalizare": 503.56,
+        "Nr_apartament": 5,
+        "Nume": "Manucu"
+    }
+]

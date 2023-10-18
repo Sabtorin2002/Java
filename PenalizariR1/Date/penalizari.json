@@ -1,0 +1,22 @@
+[
+  {
+    "numar_apartament": 1,
+    "penalizare": 5.00
+  },
+  {
+    "numar_apartament": 3,
+    "penalizare": 5.32
+  },
+  {
+    "numar_apartament": 2,
+    "penalizare": 6.00
+  },
+  {
+    "numar_apartament": 5,
+    "penalizare": 10.36
+  },
+  {
+    "numar_apartament": 4,
+    "penalizare": 2.34
+  }
+]
