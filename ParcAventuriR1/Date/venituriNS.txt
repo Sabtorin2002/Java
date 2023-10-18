@@ -1,0 +1,5 @@
+Auxiliar{denumire='ALPINISM', nrLocuri_rezervate=2, valoare=131.0}
+Auxiliar{denumire='CATARARE', nrLocuri_rezervate=11, valoare=280.5}
+Auxiliar{denumire='ECHILIBRU', nrLocuri_rezervate=5, valoare=177.5}
+Auxiliar{denumire='TARARE', nrLocuri_rezervate=5, valoare=77.5}
+Auxiliar{denumire='TIROLIANA', nrLocuri_rezervate=9, valoare=499.5}

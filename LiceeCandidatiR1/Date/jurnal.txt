@@ -1,0 +1,5 @@
+Auxliar{cod=1, nume='Pop Marcel', nrOptiuni=3, medie=8.5}
+Auxliar{cod=2, nume='Popescu Maria', nrOptiuni=2, medie=9.0}
+Auxliar{cod=5, nume='Muntean Loredana', nrOptiuni=2, medie=9.45}
+Auxliar{cod=3, nume='Popa Adriana', nrOptiuni=1, medie=9.9}
+Auxliar{cod=4, nume='Comsa Maria', nrOptiuni=1, medie=9.3}

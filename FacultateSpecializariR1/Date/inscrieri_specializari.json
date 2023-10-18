@@ -1,0 +1,32 @@
+[
+    {
+        "denumire:": "Informatica Economica",
+        "cod_specializare:": 1,
+        "numar_inscrieri:": 4,
+        "medie:": 8.911
+    },
+    {
+        "denumire:": "Cibernetica",
+        "cod_specializare:": 2,
+        "numar_inscrieri:": 2,
+        "medie:": 8.911
+    },
+    {
+        "denumire:": "Statistica",
+        "cod_specializare:": 3,
+        "numar_inscrieri:": 1,
+        "medie:": 8.911
+    },
+    {
+        "denumire:": "Marketing",
+        "cod_specializare:": 4,
+        "numar_inscrieri:": 1,
+        "medie:": 8.911
+    },
+    {
+        "denumire:": "Contabilitate",
+        "cod_specializare:": 5,
+        "numar_inscrieri:": 2,
+        "medie:": 8.911
+    }
+]
